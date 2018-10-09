@@ -3,4 +3,4 @@ services:
   nuance:
     build: .
     environment:
-      - NUANCE_KEY=nuance.lcxz 0000-000-0000-0000-00 00000-000-0000-0000-00 00000-000-0000-0000-00 00000-000-0000-0000-00
+      - NUANCE_KEY=nuance.lcxz 7605C-L00-N338-BD9Y-TK
